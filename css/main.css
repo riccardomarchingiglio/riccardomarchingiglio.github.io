@@ -24,8 +24,9 @@ h1 {
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 p {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     font-size: 1em;
-    line-height: 0.9em;
+    line-height: 1.1em;
     color: #333;
 }
 footer {
